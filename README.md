@@ -1,9 +1,9 @@
 
-# ✅ ACTIVITY 1 — HANDS-ON PRACTICE (LOCAL REPOSITORY)
+# ACTIVITY 1 — HANDS-ON PRACTICE (LOCAL REPOSITORY)
 
 ---
 
-## 🎯 Activity Overview
+## Activity Overview
 
 In this activity, you will:
 
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 ---
 
-## 💾 PART 3 — First Commit
+## PART 3 — First Commit
 
 After creating all files:
 
