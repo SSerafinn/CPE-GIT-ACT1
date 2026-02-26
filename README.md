@@ -209,7 +209,10 @@ Add the following:
 ```html
 <p>This site will grow as I learn Git.</p>
 ```
-
+Run diff command to see file changes
+```bash
+git diff --staged
+```
 Commit separately with:
 
 ```
@@ -223,13 +226,15 @@ Add learning note to index page
 ```html
 <p>I am practicing Git by making small, focused commits.</p>
 ```
-
+Run diff command to see file changes
+```bash
+git diff --staged
+```
 Commit separately with:
 
 ```
 Add practice note to about page
 ```
-
 ---
 
 ## PART 6 — Multi-Line Commit (Major Improvement)
